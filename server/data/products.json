@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Agua mineral",
+    "price": 2500,
+    "category": "Bebidas",
+    "stock": 12
+  },
+  {
+    "id": 2,
+    "name": "Jugo de mango",
+    "price": 4500,
+    "category": "Bebidas",
+    "stock": 4
+  },
+  {
+    "id": 3,
+    "name": "Papas naturales",
+    "price": 3000,
+    "category": "Snacks",
+    "stock": 8
+  },
+  {
+    "id": 4,
+    "name": "Galletas integrales",
+    "price": 5200,
+    "category": "Snacks",
+    "stock": 0
+  },
+  {
+    "id": 5,
+    "name": "Jabón líquido",
+    "price": 8900,
+    "category": "Aseo",
+    "stock": 7
+  },
+  {
+    "id": 6,
+    "name": "Detergente",
+    "price": 12500,
+    "category": "Aseo",
+    "stock": 3
+  },
+  {
+    "id": 7,
+    "name": "Toalla de cocina",
+    "price": 6500,
+    "category": "Hogar",
+    "stock": 15
+  },
+  {
+    "id": 8,
+    "name": "Recipiente plástico",
+    "price": 11000,
+    "category": "Hogar",
+    "stock": 2
+  }
+]
